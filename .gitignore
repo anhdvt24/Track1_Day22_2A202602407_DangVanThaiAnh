@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual env
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OS
+desktop.ini
+
+# Temp / build
+*.tmp
+*.bak
+~$*
+
+# Excel lock files
+~$*.xlsx
+~$*.docx
+~$*.pdf
+*.lock
